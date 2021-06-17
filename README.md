@@ -1,2 +1,3 @@
-# dns_updater
- A simple utility to update Google Domains DNS to the current public IP.
+# Google DDNS updater
+
+A simple utility to update Google Domains DNS to the current public IP.
