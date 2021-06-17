@@ -7,3 +7,6 @@ build/
 
 # Directory created by dartdoc
 doc/api/
+
+last.ip
+google_ddns.log
